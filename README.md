@@ -6,7 +6,11 @@
 https://colors-generator-hex.netlify.app/
 
 # HEX colors genetrator
+The application displays the colors given in the HEX code
 
+I used here library:
+
+https://github.com/noeldelgado/values.js
 
 
 # Install && Start
