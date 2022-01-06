@@ -5,7 +5,7 @@
 
 https://colors-generator-hex.netlify.app/
 
-# HEX colors genetrator
+# HEX colors generator
 The application displays the colors given in the HEX code
 
 I used here library:
