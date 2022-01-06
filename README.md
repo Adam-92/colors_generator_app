@@ -1,12 +1,13 @@
-![image](https://user-images.githubusercontent.com/45037539/146601393-8233f269-eac0-4bbc-a8f0-87989415bbab.png)
+![image](https://user-images.githubusercontent.com/45037539/148408996-ce40f693-3978-4fa3-a4c8-9238ebd7e562.png)
+![image](https://user-images.githubusercontent.com/45037539/148409153-0d5fb5cc-cd0c-4e1a-b884-2f3eb4fb9d2f.png)
 
 # Live view
 
-https://reactjs-game-rock-paper-scissorss.netlify.app/
+https://colors-generator-hex.netlify.app/
 
-# Frontend Mentor - Rock, Paper, Scissors solution
+# HEX colors genetrator
 
-This is a solution to the [Rock, Paper, Scissors challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/rock-paper-scissors-game-pTgwgvgH). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+
 
 # Install && Start
 
